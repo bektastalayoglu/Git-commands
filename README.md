@@ -91,7 +91,7 @@ git show <commit_id> : committe yapılan değişiklikleri gösterir.
 cp <kopyalanacak_file_adi> <yeni_file_adi>  : Bir fileı copy etmek
 
 -------------
-
+END
 
 
 
